@@ -6,5 +6,7 @@
 # git push 
 # git pull
 # git branch "nombre" --- creas una rama
+# git branch  -d "nombre" --- eliminas una rama
 # bit branch ------ miras las ramas que tienes
 # git chekout ---- cambiar entre ramas
+# git 
