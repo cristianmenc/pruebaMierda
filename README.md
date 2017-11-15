@@ -9,4 +9,4 @@
 # git branch  -d "nombre" --- eliminas una rama
 # bit branch ------ miras las ramas que tienes
 # git chekout ---- cambiar entre ramas
-# git 
+# git merge "nombre repositorio"
