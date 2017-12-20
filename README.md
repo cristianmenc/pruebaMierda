@@ -10,6 +10,6 @@
 # bit branch ------ miras las ramas que tienes
 # git chekout ---- cambiar entre ramas
 # git merge "nombre repositorio"
-# git push origin cristian_10:cristian_10 ---- para subir tu rama
-# git push -u origin cristian_10 ---- para subir tu rama
-# git pull origin rama:rama ----- para bajarte tu rama
+# git push origin cristian_10:cristian_10 ---- crear branch en remoto que ya este creada
+# git push -u origin cristian_10 ---- Asociar tu branch local al remoto
+# git pull origin rama:rama ----- para bajarte tu rama remota
