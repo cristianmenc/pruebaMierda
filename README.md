@@ -13,3 +13,4 @@
 # git push origin cristian_10:cristian_10 ---- crear branch en remoto que ya este creada
 # git push -u origin cristian_10 ---- Asociar tu branch local al remoto
 # git pull origin rama:rama ----- para bajarte tu rama remota
+# git push origin -g rama ----- borrar rama en remoto
