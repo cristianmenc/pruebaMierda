@@ -33,3 +33,6 @@
 # git commit -am "feat (#13):Sistema de seguridad" ---haces un commit
 # git push --- si han hecho un push antes que tu te pondra fallo
 # git rebase origin/develop---- para que quien haya hecho los commit antes que tu se te ponga a ti primero
+# git push
+# git push origin --delete rama
+# git branch -D rama
