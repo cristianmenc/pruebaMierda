@@ -20,3 +20,16 @@
 # git checkout develop
 # git checkout -b rama---- creas la rama y te cambias
 # git push -u origin rama --- subir la rama y encima con -u le indicas que los commits van ahi
+# git commit -am "microcommit" ----- los microcommit
+# git commit -am "microcommit" ----- los microcommit
+# git commit -am "microcommit" ----- los microcommit
+# git push ----- los subes
+# git checkout develop ---- te pones en develop
+# git pull ----le haces un pull para ver si hay errores
+# git checkout rama
+# git merge develop ---- lo haces para que te salten los errores en tu rama y no en develop
+# git checkout develop
+# git merge --squash rama ------ya tienes todos los cambios
+# git commit -am "feat (#13):Sistema de seguridad" ---haces un commit
+# git push --- si han hecho un push antes que tu te pondra fallo
+# git rebase origin/develop---- para que quien haya hecho los commit antes que tu se te ponga a ti primero
