@@ -14,3 +14,9 @@
 # git push -u origin cristian_10 ---- Asociar tu branch local al remoto
 # git pull origin rama:rama ----- para bajarte tu rama remota
 # git push origin -g rama ----- borrar rama en remoto
+# git branch -d cristian_10 ---- borrar rama local
+# git push origin --delete rama --- borrar rama en internet
+# git pull origin develop:develop --- bajarte la rama develop
+# git checkout develop
+# git checkout -b rama---- creas la rama y te cambias
+# git push -u origin rama --- subir la rama y encima con -u le indicas que los commits van ahi
